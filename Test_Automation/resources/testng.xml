@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="example suite 1" verbose="1"  parallel="classes" thread-count="5">>
+   <test name ="test">
+   
+   <parameter name="browser" value="chrome"/>    
+   
+    <classes>
+     
+            <class name="com.learning.Test_Automation.Login_gmail_2"/>
+      
+    
+    </classes>
+    </test>
+</suite>

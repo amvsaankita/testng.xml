@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="example suite 1" duration-ms="15832" started-at="2019-06-13T20:25:13Z" finished-at="2019-06-13T20:25:29Z">
+    <groups>
+    </groups>
+    <test name="test" duration-ms="15832" started-at="2019-06-13T20:25:13Z" finished-at="2019-06-13T20:25:29Z">
+      <class name="com.learning.Test_Automation.Login_gmail_2">
+        <test-method status="PASS" signature="openbrpwser(java.lang.String)[pri:0, instance:com.learning.Test_Automation.Login_gmail_2@7f13d6e]" name="openbrpwser" is-config="true" duration-ms="13651" started-at="2019-06-13T20:25:13Z" finished-at="2019-06-13T20:25:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrpwser -->
+        <test-method status="PASS" signature="launchurl()[pri:0, instance:com.learning.Test_Automation.Login_gmail_2@7f13d6e]" name="launchurl" duration-ms="1830" started-at="2019-06-13T20:25:27Z" finished-at="2019-06-13T20:25:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchurl -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:com.learning.Test_Automation.Login_gmail_2@7f13d6e]" name="closebrowser" is-config="true" duration-ms="336" started-at="2019-06-13T20:25:29Z" finished-at="2019-06-13T20:25:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.learning.Test_Automation.Login_gmail_2 -->
+    </test> <!-- test -->
+  </suite> <!-- example suite 1 -->
+</testng-results>
